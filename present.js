@@ -3,5 +3,6 @@ const present = function(note) {
   
    console.log(newNote)
   }
+  present
   
   module.exports = present
