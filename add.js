@@ -7,5 +7,5 @@ const fs = require ('fs');
     
     fs.writeFileSync('note.txt',JSON.stringify(newNote))
 }
-//add
+//
 module.exports = add

@@ -37,6 +37,6 @@ if(cmd[2] == 'update') {
     const oldNote = read()
 
     update(note, oldNote)
-//read
+
     present(read())
 }
